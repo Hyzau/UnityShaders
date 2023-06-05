@@ -12,6 +12,9 @@ The project contains a demo scene with all shader in action.
 You can also watch the video below :
 [![Watch on imgur](https://imgur.com/a/AodwriT.gif)](https://i.imgur.com/my81EUq.mp4)
 
+https://i.imgur.com/my81EUq.mp4
+
+
 ## License
 
 [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
